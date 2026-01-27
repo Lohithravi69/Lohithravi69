@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Lohith R
 
-<!--
-**Lohithravi69/Lohithravi69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Computer Science & Engineering (3rd Year)  
+🚀 Aspiring Full stack & AI Developer  
+🔍 Learning Python, Web Dev (HTML, CSS, Flask) & ML 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, Java  
+- **Web:** HTML, CSS, Flask  
+- **AI/ML:** Scikit-learn, Pandas, NumPy  
+- **Tools:** Git, GitHub
+
+---
+
+## 📌 Featured Projects
+### 🚀 AI & Web Projects
+- **AI Finance Advisor** – Python project  
+- **Fake News Detection** – ML-based web app  
+- **Cloud-Cost Optimizer** – Python tool  
+- **Portfolio Website** – HTML/CSS layout
+
+Want to explore all my projects? 😄
+
+---
+
+## 📫 Get in Touch
+- 📍 Tamil Nadu, India  
+- ✉️ Email: lohithravi69@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/lohith-ravi-22b9a32a0
